@@ -10,4 +10,5 @@ For this Report I have prepared the following metrics:
 4. detailed information of each sales record
 
 dashboard sample
-https://github.com/surendrakappa/Power-BI-Assessment-new/blob/main/Dash%20board%20Screenshot.png
+
+<img width="1079" alt="Dash board Screenshot" src="https://github.com/surendrakappa/Power-BI-Assessment-new/assets/168163611/41e24f43-ff17-4c8f-8518-3a6385619f56">
