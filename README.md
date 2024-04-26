@@ -27,3 +27,8 @@ For this Report I have prepared the following metrics:
 
 
 <img width="1079" alt="Model view screenshot" src="https://github.com/surendrakappa/Power-BI-Assessment-new/assets/168163611/5327abe5-d8db-4979-a7f6-896b83d0cb8b">
+
+
+# Power BI PBIX file path
+
+https://app.powerbi.com/links/8exMWxAKDr?ctid=850f1246-3bcf-4bac-961d-69c57484a48b&pbi_source=linkShare
