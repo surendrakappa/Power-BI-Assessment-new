@@ -2,7 +2,7 @@
 
 Sales Performance Report
 
-For thiscReport I have prepared the following metrics:
+For this Report I have prepared the following metrics:
 
 1. breakdown of sales per country   
 2. volume of products sold weekly  
